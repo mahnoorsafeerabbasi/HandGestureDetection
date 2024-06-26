@@ -1,4 +1,4 @@
-# ### Hand Detection and Finger Counting System Implementation :
+# Hand Detection and Finger Counting System Implementation :
 ## Objective
 The goal of this system is to implement a real-time Hand Detection and Finger Counting application using OpenCV and Python. The system accurately detects hands in a video stream, performs finger counting, and displays the results in real-time.
 ## Implementation Overview
