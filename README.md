@@ -1,6 +1,4 @@
-# HandGestureDetection
-A Python application for real-time hand gesture detection and finger counting using OpenCV and sklearn. This project captures video input, identifies the hand region, and counts the number of extended fingers. It utilizes background subtraction, adaptive thresholding, and contour analysis for accurate detection.
-# Hand Detection and Finger Counting System Implementation :
+# ### Hand Detection and Finger Counting System Implementation :
 ## Objective
 The goal of this system is to implement a real-time Hand Detection and Finger Counting application using OpenCV and Python. The system accurately detects hands in a video stream, performs finger counting, and displays the results in real-time.
 ## Implementation Overview
